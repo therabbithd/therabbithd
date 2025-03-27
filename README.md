@@ -25,11 +25,11 @@ Hola soy Guillermo y este es mi github
 * [Instagram](https://www.instagram.com/el_dianez/)
 </details>
 <details>
-  <summary><h1>Estadisticas<h1>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therabbithd&show_icons=true&count_private=true&theme=dark" width="350"></a>
- <br>
- <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=therabbithd&theme=github" width="350"></a>
-
+  <summary><h1>Estadisticas<h1></summary>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therabbithd&show_icons=true&count_private=true&theme=dark" width="350"></a>
+    <br>
+    <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=therabbithd&theme=github" width="350"></a>
+</details>
 
 
 
