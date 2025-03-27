@@ -1,7 +1,7 @@
 # Hi there 👋
 Hola soy Guillermo y este es mi github
 <details>
-  <summary><h1>Sobre mi</h1></summary>
+  <summary><h1>Sobre mi<h1></summary>
 
 ## Estudios 
 * 🖥️🪛Sistemas microinformáticos  y redes(SMR) 🏫CPIFP ALAN TURING.
@@ -21,9 +21,14 @@ Hola soy Guillermo y este es mi github
 * ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 * ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Redes
-* <a href="https://www.linkedin.com/in/guilermo-dia%C3%B1ez-gomez-a1a59b317/" style="color: #0077B5; font-weight: bold;">LinkedIn</a>
-* <a href[="https://www.instagram.com](https://www.instagram.com/el_dianez/)" style="color: white; font-weight: bold; background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); -webkit-background-clip: text; background-clip: text;">Instagram</a>
-
+* [LinkedIn](https://www.linkedin.com/in/guilermo-dia%C3%B1ez-gomez-a1a59b317/)
+* [Instagram](https://www.instagram.com/el_dianez/)
+</details>
+<details>
+  <summary><h1>Estadisticas<h1>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therabbithd&show_icons=true&count_private=true&theme=dark" width="350"></a>
+ <br>
+ <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=therabbithd&theme=github" width="350"></a>
 
 
 
