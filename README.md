@@ -1,7 +1,7 @@
 # Hi there 👋
 Hola soy Guillermo y este es mi github
 <details>
-  <summary>Sobre mi</summary>
+  <summary><h1>Sobre mi</h1>h1></summary>
 
 ## Estudios 
 * 🖥️🪛Sistemas microinformáticos  y redes(SMR) 🏫CPIFP ALAN TURING.
